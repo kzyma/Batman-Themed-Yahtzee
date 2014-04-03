@@ -1,0 +1,190 @@
+AI Player 2
+263
+Scorecard: 
+Aces(Ones)           1 
+Twos                 6 
+Threes               3 
+Fours                4 
+Fives                5 
+Sixes                0 
+3 of a Kind          17 
+4 of a Kind          0 
+Full House           25 
+Small Straight       0 
+Large Straight       40 
+YAHTZEE              50 
+Chance               12 
+Bonus Chips: * 
+Bonus: 100
+Total Score: 263
+Player1
+252
+Scorecard: 
+Aces(Ones)           4 
+Twos                 4 
+Threes               3 
+Fours                0 
+Fives                25 
+Sixes                6 
+3 of a Kind          17 
+4 of a Kind          0 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               18 
+Bonus Chips: * 
+Bonus: 100
+Total Score: 252
+Bane
+177
+Scorecard: 
+Aces(Ones)           0 
+Twos                 6 
+Threes               9 
+Fours                8 
+Fives                20 
+Sixes                24 
+3 of a Kind          16 
+4 of a Kind          22 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              0 
+Chance               12 
+Bonus Chips: 
+Bonus: 35
+Total Score: 177
+AI Player 12
+164
+Scorecard: 
+Aces(Ones)           3 
+Twos                 4 
+Threes               6 
+Fours                12 
+Fives                15 
+Sixes                0 
+3 of a Kind          9 
+4 of a Kind          17 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               23 
+Bonus Chips: 
+Bonus: 0
+Total Score: 164
+AI Player 2
+156
+Scorecard: 
+Aces(Ones)           1 
+Twos                 6 
+Threes               9 
+Fours                4 
+Fives                10 
+Sixes                0 
+3 of a Kind          18 
+4 of a Kind          17 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               16 
+Bonus Chips: 
+Bonus: 0
+Total Score: 156
+AI Player 21
+154
+Scorecard: 
+Aces(Ones)           0 
+Twos                 4 
+Threes               0 
+Fours                12 
+Fives                10 
+Sixes                0 
+3 of a Kind          22 
+4 of a Kind          16 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               15 
+Bonus Chips: 
+Bonus: 0
+Total Score: 154
+AI Player 15
+147
+Scorecard: 
+Aces(Ones)           3 
+Twos                 2 
+Threes               9 
+Fours                0 
+Fives                15 
+Sixes                0 
+3 of a Kind          22 
+4 of a Kind          9 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               12 
+Bonus Chips: 
+Bonus: 0
+Total Score: 147
+AI Player 29
+145
+Scorecard: 
+Aces(Ones)           2 
+Twos                 4 
+Threes               9 
+Fours                4 
+Fives                10 
+Sixes                0 
+3 of a Kind          15 
+4 of a Kind          6 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               20 
+Bonus Chips: 
+Bonus: 0
+Total Score: 145
+Bane
+141
+Scorecard: 
+Aces(Ones)           0 
+Twos                 4 
+Threes               6 
+Fours                8 
+Fives                15 
+Sixes                12 
+3 of a Kind          12 
+4 of a Kind          0 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               9 
+Bonus Chips: 
+Bonus: 0
+Total Score: 141
+AI Player 4
+135
+Scorecard: 
+Aces(Ones)           0 
+Twos                 6 
+Threes               3 
+Fours                4 
+Fives                10 
+Sixes                0 
+3 of a Kind          9 
+4 of a Kind          13 
+Full House           25 
+Small Straight       0 
+Large Straight       0 
+YAHTZEE              50 
+Chance               15 
+Bonus Chips: 
+Bonus: 0
+Total Score: 135
