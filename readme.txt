@@ -14,11 +14,9 @@ followed.
 *********************** How to run *************************
 Web Application:
 
-Located at:
-http://acad.kutztown.edu/~kzyma650/index.html
+Demo Located at:
+http://acad.kutztown.edu/~kzyma650/build/
 
-Javdoc located at:
-http://acad.kutztown.edu/~kzyma650/javadoc
 
 Application:
 Step 1: compile all included files to java byte code.
@@ -32,7 +30,7 @@ Step 1: compile all included files to java byte code.
 Step 2: Lunch index.html in browser or with AppletViewer.
 	example: appletviewer index.html
 
-The program flow should be pretty obvious. On start a
+Program flow is as follows, on start a
 main menu is displayed allowing you to choose one of
 four options:
 1)New Game: Start a new Yahtzee game.
@@ -41,9 +39,11 @@ four options:
 	To keep with the Batman theme across the game, 
 	players character’s may be Batman,Robin, or Catwoman and
 	the AI character is Bane.
-2)View Highscores: View the top 10 highscores of all time.
-3)View AI Demo: see a AI vs AI demo match.
-4)Exit: exits program (Application only).
+2)Online Game: Launch new game online. (feature being tested 
+and will be playable soon).
+3)View Highscores: View the top 10 highscores of all time.
+4)View AI Demo: see a AI vs AI demo match.
+5)Exit: exits program (Application only).
 
 *note2* If a yahtzee has been already scored and you get a second
 yahtzee, you will see “Joker rules are in effect”. You may now
