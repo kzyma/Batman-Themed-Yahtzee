@@ -12,12 +12,6 @@ game rules from http://www.hasbro.com/common/instruct/Yahtzee.pdf are
 followed.
 
 *********************** How to run *************************
-Web Application:
-
-Demo Located at:
-http://acad.kutztown.edu/~kzyma650/build/
-
-
 Application:
 Step 1: compile all included files to java byte code.
 	example : javac *.java
